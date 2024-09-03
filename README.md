@@ -60,3 +60,5 @@ Kelas: SK3C
     4. Ntfs adalah sistem file windows yang mempunyai ukuran file 16 EB
     5. Fat32 adalah sebuah sistem file yang dapat menampung hingga 4 GB untuk satu file dan mempunyai volume sebesar 2 TB
     6. Btrfs adalah sistem file linux dengan beberapa fitur tambahan seperti snapshot dan subvolume serta penambahan volume maks 16 EB
+
+4.) 50 Command Linux beserta penjelasannya
