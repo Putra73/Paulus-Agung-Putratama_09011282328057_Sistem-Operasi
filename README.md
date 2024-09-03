@@ -5,7 +5,7 @@ Kelas: SK3C
 1.) Buatlah laporan proses instalasi di komputer mahasiswa dan tampilkan screenshotannya!	
 
     1. Buka website official linux yaitu: https://linuxmint.com/ 
-        (Gambar Langkah-langkah install linux/1.png)
+        (https://github.com/Putra73/Paulus-Agung-Putratama_09011282328057_Tugas-1-2-3-Sistem-Operasi/blob/6222bcada971b8fa0f5c473909ee04e169cea5df/Gambar%20Langkah-        langkah%20install%20linux/1.png)
     2. Pilih Cinnamon Edition
 
     3. Pilih salah satu server, dan tunggu hingga download telah selesai
