@@ -4,10 +4,7 @@ Kelas: SK3C
 
 1.) Buatlah laporan proses instalasi di komputer mahasiswa dan tampilkan screenshotannya!	
 
-    ![alt text](?raw=true)
     1. Buka website official linux yaitu: https://linuxmint.com/ 
-    
-    ![1](https://github.com/user-attachments/assets/f8e9f18f-98c7-4138-bd63-25bb937030c1)
     
     2. Pilih Cinnamon Edition
 
