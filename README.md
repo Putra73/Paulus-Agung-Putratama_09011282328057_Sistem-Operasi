@@ -3,7 +3,8 @@ NIM: 09011282328057
 Kelas: SK3C
 
 1.) Buatlah laporan proses instalasi di komputer mahasiswa dan tampilkan screenshotannya!	
-![alt text](?raw=true)
+
+    ![alt text](?raw=true)
     1. Buka website official linux yaitu: https://linuxmint.com/ 
     ![alt text](?raw=true)
     2. Pilih Cinnamon Edition
