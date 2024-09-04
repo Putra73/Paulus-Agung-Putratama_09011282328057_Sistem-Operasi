@@ -25,6 +25,9 @@ Kelas: SK3C
 12. tail untuk melihat isi akhir dari suatu file
 13. rm untuk menghapus suatu file atau folder
 14. traceroute untuk melihat suatu rute ke host jaringan
+
+------------
+
   <div>
   <img src="./tugas 3 png/(3).png"/>
   </div>
@@ -50,6 +53,8 @@ Kelas: SK3C
 24. ifconfig untuk melihat informasi tentang network yang kita pakai seperti ip, mac address, dll
 25. clear untuk membersihkan terminal
 
+------------------
+
   <div>
   <img src="./tugas 3 png/(6).png"/>
   </div>
@@ -65,6 +70,10 @@ Kelas: SK3C
 34. alias untuk membuat suatu panggilan pada command yang kita inginkan
 35. cd untuk merubah direktori dimana terminal beroperasi
 
+---------------
+    
   <div>
-  <img src="./tugas 3 png/(6).png"/>
+  <img src="./tugas 3 png/(7).png"/>
   </div>
+
+36. top menunjukkan proses sistem yang berjalan dan memori yang digunakan secara langsung
