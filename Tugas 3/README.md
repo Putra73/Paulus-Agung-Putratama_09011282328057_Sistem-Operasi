@@ -49,3 +49,22 @@ Kelas: SK3C
 23. uname untuk melihat informasi secara singkat tentang sistem
 24. ifconfig untuk melihat informasi tentang network yang kita pakai seperti ip, mac address, dll
 25. clear untuk membersihkan terminal
+
+  <div>
+  <img src="./tugas 3 png/(6).png"/>
+  </div>
+
+26. diff menunjukkan perbedaan satu file dengan yang lain berupa baris berbeda atau baris sama
+27. cmp menunjukkan persamaan satu file dengan yang lain berupa byte dan baris
+28. comm menunjukkan barisan yang unik sekaligus barisan yang sering muncul pada satu file dengan yang lain
+29. sort untuk menyortir suatu isi file berdasarkan abjad atau numerik
+30. ps untuk melihat seluruh proses yang berjalan dalam sistem
+31. df untuk melihat jumlah sisa storage disk dan seluruh file system yang ada dalam OS kita
+32. echo untuk print input yang kita masukkan dalam terminal
+33. service ialah command untuk melihat, memulai, atau menghentikan service yang ada dalam OS
+34. alias untuk membuat suatu panggilan pada command yang kita inginkan
+35. cd untuk merubah direktori dimana terminal beroperasi
+
+  <div>
+  <img src="./tugas 3 png/(6).png"/>
+  </div>
