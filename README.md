@@ -3,49 +3,84 @@ NIM: 09011282328057
 Kelas: SK3C
 
 1.) Buatlah laporan proses instalasi di komputer mahasiswa dan tampilkan screenshotannya!	
-
-    1. Buka website official linux yaitu: https://linuxmint.com/ 
+ 1. Buka website official linux yaitu: https://linuxmint.com/ 
      <div>
      <img src="./Gambar Langkah-langkah install linux/1.png"/>
      </div>
-    2. Pilih Cinnamon Edition
-
-    3. Pilih salah satu server, dan tunggu hingga download telah selesai
-
-    4. Download juga Oracle Virtual Machine dari https://www.virtualbox.org/wiki/Downloads
-
-    5. Setelah selesai buka virtual machine box dan pilih new
-
-    6. Beri nama lalu Taruh ISO image yang telah kita download dan pilih unantendded install
-
-    7. Pilih hingga batas hijau agar linux kita lancar saat digunakan
-
-    8. Pilih storage disknya minimal 20 GB
-
-    9. Setting terlebih dahulu Linux Mint seperti yang diinginkan, lalu pilih start untuk menjalankan
-
-    10. Pilih Linux Mint dan proses boot akan berjalan
-
-    11. Setelah selesai boot, pilih Install Linux Mint
-
-    12. Pilih languge kalian
-
-    13. Centang Install Multimedia codecs agar bisa memutar video dan merender website
-
-    14. Pilih Erase disk dan install linux untuk menimpa OS bawaan dengan OS linux
-
-    15. Pilih tempat tinggal kalian
-
-    16. Isi Data yang diperlukan
-
-    17. Tunggu installasi hingga selesai
-
-    18. Setelah installasi selesai, Pilih Restart now
-
-    19. Tekan ENTER 
-
-    20. OS Linux telah siap dipakai
-
+2. Pilih Cinnamon Edition
+     <div>
+     <img src="./Gambar Langkah-langkah install linux/2.png"/>
+     </div>
+3. Pilih salah satu server, dan tunggu hingga download telah selesai
+     <div>
+     <img src="./Gambar Langkah-langkah install linux/3.png"/>
+     </div>
+4. Download juga Oracle Virtual Machine dari https://www.virtualbox.org/wiki/Downloads
+ 
+5. Setelah selesai buka virtual machine box dan pilih new
+     <div>
+     <img src="./Gambar Langkah-langkah install linux/4.png"/>
+     </div>
+6. Beri nama lalu Taruh ISO image yang telah kita download dan pilih unantendded install
+     <div>
+     <img src="./Gambar Langkah-langkah install linux/5.png"/>
+     </div>
+7. Pilih hingga batas hijau agar linux kita lancar saat digunakan
+     <div>
+     <img src="./Gambar Langkah-langkah install linux/6.png"/>
+     </div>
+8. Pilih storage disknya minimal 20 GB
+     <div>
+     <img src="./Gambar Langkah-langkah install linux/8.png"/>
+     </div>
+9. Setting terlebih dahulu Linux Mint seperti yang diinginkan, lalu pilih start untuk menjalankan
+     <div>
+     <img src="./Gambar Langkah-langkah install linux/9.png"/>
+     </div>
+10. Pilih Linux Mint dan proses boot akan berjalan
+     <div>
+     <img src="./Gambar Langkah-langkah install linux/10.png"/>
+     </div>
+11. Setelah selesai boot, pilih Install Linux Mint
+     <div>
+     <img src="./Gambar Langkah-langkah install linux/11.png"/>
+     </div>
+12. Pilih languge kalian
+     <div>
+     <img src="./Gambar Langkah-langkah install linux/12.png"/>
+     </div>
+13. Centang Install Multimedia codecs agar bisa memutar video dan merender website
+     <div>
+     <img src="./Gambar Langkah-langkah install linux/13.png"/>
+     </div>
+14. Pilih Erase disk dan install linux untuk menimpa OS bawaan dengan OS linux
+     <div>
+     <img src="./Gambar Langkah-langkah install linux/14.png"/>
+     </div>
+15. Pilih tempat tinggal kalian
+     <div>
+     <img src="./Gambar Langkah-langkah install linux/15.png"/>
+     </div>
+16. Isi Data yang diperlukan
+     <div>
+     <img src="./Gambar Langkah-langkah install linux/16.png"/>
+     </div>
+17. Tunggu installasi hingga selesai
+     <div>
+     <img src="./Gambar Langkah-langkah install linux/17.png"/>
+     </div>
+18. Setelah installasi selesai, Pilih Restart now
+     <div>
+     <img src="./Gambar Langkah-langkah install linux/18.png"/>
+     </div>
+19. Tekan ENTER 
+     <div>
+     <img src="./Gambar Langkah-langkah install linux/19.png"/>
+     </div>
+20. OS Linux telah siap dipakai
+     <div>
+     <img src="./Gambar Langkah-langkah install linux/20.png"/>
+     </div>
 
 2.) Analisislah kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point?
 
