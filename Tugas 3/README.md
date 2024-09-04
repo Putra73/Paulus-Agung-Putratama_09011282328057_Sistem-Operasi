@@ -77,3 +77,27 @@ Kelas: SK3C
   </div>
 
 36. top menunjukkan proses sistem yang berjalan dan memori yang digunakan secara langsung
+
+--------
+
+  <div>
+  <img src="./tugas 3 png/(8).png"/>
+  </div>
+
+37. uptime untuk melihat sudah berapa lama OS telah berjalan
+38. date untuk melihat tanggal sekarang
+39. more untuk menampilan isi file secara bertahap
+40. find untuk menemukan apakah file yang dicari ada atau tidak
+41. ping untuk memeriksa konektivitas internet
+42. curl untuk mengambil data dari suatu URL
+43. Free untuk melihat penggunaan memori
+44. hostname untuk melihat nama host sistem
+45. who untuk melihat siapa saja pengguna yang masuk
+46. histori untuk melihat command apa saja yang telah kita masukkan
+
+------
+
+47. reboot untuk merestart system lewat termintal
+48. shutdown now untuk mematikan system lewat terminal
+49. wget untuk mendownload suatu file lewat internet
+50. kill untuk menghentikan suatu proses yang berjalan dalam sistem
