@@ -1,5 +1,7 @@
 Nama: Paulus Agung Putratama
+
 NIM: 09011282328057
+
 Kelas: SK3C
 
 1.) Buatlah laporan proses instalasi di komputer mahasiswa dan tampilkan screenshotannya!	
