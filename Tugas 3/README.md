@@ -29,3 +29,23 @@ Kelas: SK3C
   <img src="./tugas 3 png/(3).png"/>
   </div>
 15. help untuk melihat list command apa saja yang bisa kita pakai
+
+--------------
+
+  <div>
+  <img src="./tugas 3 png/(5).png"/>
+  </div>
+  <div>
+  <img src="./tugas 3 png/(4).png"/>
+  </div>
+  
+16. zip untuk mengompress satu atau beberapa file dalam format zip
+17. unzip untuk mengekstrak suatu zip archive
+18. man untuk membuka manual sebuah command
+19. cp ialah copy-paste
+20. mv ialah cut-paste
+21. pwd untuk mengetahui direktori tempat terminal beroperasi
+22. whoami untuk mengetahui nama user yang beroperasi
+23. uname untuk melihat informasi secara singkat tentang sistem
+24. ifconfig untuk melihat informasi tentang network yang kita pakai seperti ip, mac address, dll
+25. clear untuk membersihkan terminal
