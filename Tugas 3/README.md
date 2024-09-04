@@ -25,4 +25,7 @@ Kelas: SK3C
 12. tail untuk melihat isi akhir dari suatu file
 13. rm untuk menghapus suatu file atau folder
 14. traceroute untuk melihat suatu rute ke host jaringan
-15. help untuk melihat command apa saja yang bisa
+  <div>
+  <img src="./tugas 3 png/(3).png"/>
+  </div>
+15. help untuk melihat list command apa saja yang bisa kita pakai
