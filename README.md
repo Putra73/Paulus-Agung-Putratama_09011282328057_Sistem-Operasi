@@ -1,3 +1,5 @@
+#Tugas 1 dan 2
+
 Nama: Paulus Agung Putratama
 
 NIM: 09011282328057
