@@ -14,8 +14,8 @@ Kelas: SK3C
   </div>
 
 1. whatis untuk menjelaskan suatu command
-2. whereis untuk
-3. Sudo membiarkan kita sebagai superuse
+2. whereis untuk menemukan direktori suatu command
+3. Sudo membiarkan kita sebagai superuse atau bisa disebut administrator
 4. Apt Install untuk menginstall suatu package
 5. ls berguna melihat list folder dan file dalam storage
 6. mkdir untuk membuat suatu folder
