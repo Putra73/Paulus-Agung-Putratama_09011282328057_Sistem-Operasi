@@ -1,4 +1,4 @@
-#Tugas 1 dan 2
+## Tugas 1 dan 2
 
 Nama: Paulus Agung Putratama
 
