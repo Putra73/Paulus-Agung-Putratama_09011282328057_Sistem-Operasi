@@ -9,3 +9,30 @@ NIM: 09011282328057
   <div>
   <img src="./Tugas5PNG/1.png"/>
   <div>
+  <div>
+  <img src="./Tugas5PNG/2.png"/>
+  <div>
+  <div>
+  <img src="./Tugas5PNG/3.png"/>
+  <div>
+  <div>
+  <img src="./Tugas5PNG/4.png"/>
+  <div>
+  <div>
+  <img src="./Tugas5PNG/5.png"/>
+  <div>
+  <div>
+  <img src="./Tugas5PNG/6.png"/>
+  <div>
+  <div>
+  <img src="./Tugas5PNG/7.png"/>
+  <div>
+  <div>
+  <img src="./Tugas5PNG/8.png"/>
+  <div>
+  <div>
+  <img src="./Tugas5PNG/9.png"/>
+  <div>
+  <div>
+  <img src="./Tugas5PNG/10.png"/>
+  <div>
